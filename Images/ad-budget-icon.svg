@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="108" height="108">
+	<title>ad-budget-icon</title>
+	<defs>
+		<image  width="105" height="105" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGkAAABpCAMAAAAOXP0IAAAAAXNSR0IB2cksfwAAADNQTFRF6efn6efn6efn6efn6efn6efn6efn6efn6efn6efn6efn6efn6efn6efn6efn6efn6efnjmZDUwAAABF0Uk5TYIBAEAC//8+PMJ/fryBQ73CkahMMAAADdElEQVR4nO2Z25aDIAxFQUDF1sv/f+0AMpVbQrTKU89L12otW0M4hMgYf0CsEzIVU/0zGkbdiGRhLCVNt0dPvTyri0mdvF+CvR1rfJxkNE/usf5z40GSlHoIUI+SpJwO1MMkySyqCcmhxiYkF8CuCUkOe/wakLR5KNaEZOM3tCHN5qF0E5JUNv2akJgNXxOSMOE7S+oYH5Ua6xfGMptId4K0jIPf4tRZkoEsVFI3rcdmeprE+57TSOwVbduPkRLOYySd1zTPkHih6PmQFhVp/oIkikWaCkYIBQ5UJ+l0hhLSFn+voXGqJL0WQfE8ic1dxaBBKCQBgA7S7OpIV9kNnG95MU59JlYj3TNPQoPhu5k0rCDqiF7nZC9azScEwkmj+TPzZSiaET4DJxBTIXW9TyhRQEWk2YVwBVdthST8QtqKqA9JK7WHdwWXUo30mWoblAkk/d+QwkEIKVhJJdQRPZcxQ3XbgUljOKzIsjmYJ1YPHUaKzcGeShhECs8tF0iJcQ5zggpJLmHeV0mpg6drOM5y+8N2jaTTXEtR8cpd7Fd4UkCkMSMldqHy61d0qiBSyYAiu0jrCFX4jkISJVBkF+moLlexwhYgLWVSsIaz+3dziKwqgFSqhmJUHilt9gxkpgDSGyJ97OKueg/pjnm7uIsE1SkO5eziLhIC8mu4Zj63kAjGfRfJ2YXsKtJ3kFwXo3aNuoM0/pczT5Pefp/AxUkktNtsVlSpLrufZDMP9pBDjEQCfa93l2I/h9cRSEhibYS0c5Ik0gz+f4IPb7EGGikrWIL/C+i3WOmuCJGy6niXLRUIaWe1EEnlTdemHXAP2aWSSCrvGxQT8srOUiCpdOskE/LKBgRJheyjmdCuVzoectbIbIJoQrvy1gRMSuNENSHgkbAzYTIs1YSc0hTHSfGckE3IqlTOYGf38BHIJmRVPMSj/Yhj/ukmZFU8SaGkT/xOmFAPnQ7xbo7PvxMm1IMn3kovbE+CEyYEF4O1rpt/8UY2IbjqJPT3zpgQUt7W+7DLGRNC6mhSF5tsQlj7g0Iqt7ELQt/f0N4BbJR5el3rRySaq8tp5fgI9Hc1HRrCldcaVCfeCpnngmL4grvkl0hGy5Tb7MBpJ8RzJKOZceUD+VITxzoQX5Iu60f6kX6kH+lHepq01fqCX2vypCZqSRpVG7E/YFDHzrp11MYAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="2" y="2"/>
+</svg>
